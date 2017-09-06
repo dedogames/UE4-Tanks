@@ -3,4 +3,7 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 
 ### Intro, Notes & Section 4 Assets ###
 
-+ Battle Tank is an open world tank fight
++ BT01 Intro, Notes & Assets
++ BT02 Game Desing Document(GDD)
++ BT03 Setting UP a Github "Repo"
+
